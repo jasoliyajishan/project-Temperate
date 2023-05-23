@@ -15,6 +15,6 @@ main()
 
    
     sum = first_digit+ last_digit;
-     printf("Sum of first and last_digit= %d\n", sum);
+     printf("Sum of first_digit and last_digit= %d\n", sum);
 
 }
